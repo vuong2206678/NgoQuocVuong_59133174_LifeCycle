@@ -1,9 +1,9 @@
-NgoQuocVuong_59133174	! Notepad cua em viet unikey bi loi ???? nen em viet khong dau.
-Cau 4: Cac phuong thuc vong doi duuc goi khi ung dung dang chay v‡ nguoi su
-dung bam vao nut back sau do mo lai ung dung l‡: onPause, onStop, onDestroy,onCreate, onStart, onResume.
-Cau 5: C·c phuong thuc vong doi duoc goi khi ung dung dang chay v‡ nguoi su
+NgoQuocVuong_59133174	
+Cau 4: Cac phuong thuc vong doi duuc goi khi ung dung dang chay v√† nguoi su
+dung bam vao nut back sau do mo lai ung dung l√†: onPause, onStop, onDestroy,onCreate, onStart, onResume.
+Cau 5: C√°c phuong thuc vong doi duoc goi khi ung dung dang chay v√† nguoi su
 dung bam vao nut home va sau do mo lai ung dung la: onPause, onStop, onRestart, onStart, onResume.
 Cau 6:  Neu can luu thong tin cua ung dung de khoi phuc lai trang thai hien thi cua ung dung
-khi chay lai ung dung thi can phai thuc hien trong phuong thuc vÚng doi: onCreate vÏ khi an Home 
-ung dung se o trang thai onStop khi ta bat lai ung dung se thuc hien phuong thuc onRestart sau do onStart v‡ onResume,
+khi chay lai ung dung thi can phai thuc hien trong phuong thuc v√≤ng doi: onCreate v√¨ khi an Home 
+ung dung se o trang thai onStop khi ta bat lai ung dung se thuc hien phuong thuc onRestart sau do onStart v√† onResume,
 no khong chay phuong thuc onCreate nen thong tin cua ung dung se duoc luu lai khi ta chay lai ung dung.
