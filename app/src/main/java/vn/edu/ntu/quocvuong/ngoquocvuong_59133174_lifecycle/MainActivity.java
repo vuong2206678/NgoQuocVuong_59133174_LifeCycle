@@ -32,6 +32,12 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), "onStart", Toast.LENGTH_SHORT).show();
 
     }
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Log.d("Life cycle","onResume called");
+        Toast.makeText(getApplicationContext(), "onResume", Toast.LENGTH_SHORT).show();
+    }
 
     @Override
     protected void onPause() {
