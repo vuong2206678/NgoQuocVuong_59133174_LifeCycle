@@ -50,14 +50,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onStop() {
         super.onStop();
         Log.d("Life cycle","onStop called");
-        Toast.makeText(getApplicationContext(), "on", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "onStop", Toast.LENGTH_SHORT).show();
     }
 
     @Override
     protected void onRestart() {
         super.onRestart();
         Log.d("Life cycle","onRestart called");
-        Toast.makeText(getApplicationContext(), "on", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "onRestart", Toast.LENGTH_SHORT).show();
     }
 
     @Override
